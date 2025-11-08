@@ -3,43 +3,32 @@
     {
       "titulo": "TV Online - Pluto TV",
       "url": "https://pluto.tv/",
-      "capa": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png"
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Pluto_TV_logo_2020.svg"
     },
     {
       "titulo": "Desenhos Animados Clássicos",
       "url": "https://www.youtube.com/@DesenhosAnimadosClassicos",
-      "capa": "https://yt3.googleusercontent.com/ytc/AGIKgqP9FJvZKf2g0gWZ0U2KXxZkYwWvZ5gkJvZKf2g=s900-c-k-c0x00ffffff-no-rj"
+      "capa": "https://i.imgur.com/0Z7Z0ZQ.png"
     },
     {
       "titulo": "Animes - Crunchyroll",
       "url": "https://www.crunchyroll.com/pt-br/",
-      "capa": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Crunchyroll_Logo.svg/512px-Crunchyroll_Logo.svg.png"
+      "capa": "https://i.imgur.com/3ZQ3Z3Q.png"
     },
     {
-      "titulo": "Novelas Brasileiras - Globoplay",
+      "titulo": "Novelas - Globoplay",
       "url": "https://globoplay.globo.com/novelas/",
-      "capa": "https://logodownload.org/wp-content/uploads/2019/11/globoplay-logo.png"
+      "capa": "https://i.imgur.com/7Y7Y7Y7.png"
     },
     {
-      "titulo": "Séries Antigas - Dailymotion",
+      "titulo": "Séries Antigas",
       "url": "https://www.dailymotion.com/playlist/x8eb54",
-      "capa": "https://s1.dmcdn.net/v/Sx0rZ1VxU3U3ZzZgL/x1080"
+      "capa": "https://i.imgur.com/9X9X9X9.png"
     },
     {
       "titulo": "YouTube - Canal Nostalgia",
       "url": "https://www.youtube.com/@CanalNostalgia",
-      "capa": "https://yt3.googleusercontent.com/ytc/AGIKgqM8NostalgiaLogo=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "titulo": "Filmes Gratuitos - NetMovies",
-      "url": "https://www.youtube.com/@NetMovies",
-      "capa": "https://yt3.googleusercontent.com/ytc/AGIKgqP9NetMoviesLogo=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "titulo": "Canais de Documentários - Curta!",
-      "url": "https://www.curtanaescola.com.br/",
-      "capa": "https://www.curtanaescola.com.br/assets/images/logo-curta.png"
+      "capa": "https://i.imgur.com/5W5W5W5.png"
     }
   ]
 }
-
