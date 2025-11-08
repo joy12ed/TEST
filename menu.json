@@ -2,31 +2,37 @@
   "menu": [
     {
       "titulo": "TV Online - Pluto TV",
+      "descricao": "Canais gratuitos de filmes, séries e entretenimento ao vivo.",
       "url": "https://pluto.tv/",
-      "capa": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Pluto_TV_logo_2020.svg"
+      "capa": "https://i.imgur.com/PlutoTVLogo.png"
     },
     {
       "titulo": "Desenhos Animados Clássicos",
+      "descricao": "Reviva os clássicos da infância com desenhos nostálgicos.",
       "url": "https://www.youtube.com/@DesenhosAnimadosClassicos",
       "capa": "https://i.imgur.com/0Z7Z0ZQ.png"
     },
     {
       "titulo": "Animes - Crunchyroll",
+      "descricao": "Assista os melhores animes com legendas em português.",
       "url": "https://www.crunchyroll.com/pt-br/",
       "capa": "https://i.imgur.com/3ZQ3Z3Q.png"
     },
     {
       "titulo": "Novelas - Globoplay",
+      "descricao": "Novelas brasileiras clássicas e atuais em streaming.",
       "url": "https://globoplay.globo.com/novelas/",
       "capa": "https://i.imgur.com/7Y7Y7Y7.png"
     },
     {
       "titulo": "Séries Antigas",
+      "descricao": "Coleção de séries antigas para maratonar com nostalgia.",
       "url": "https://www.dailymotion.com/playlist/x8eb54",
       "capa": "https://i.imgur.com/9X9X9X9.png"
     },
     {
       "titulo": "YouTube - Canal Nostalgia",
+      "descricao": "Vídeos sobre cultura pop, infância e curiosidades.",
       "url": "https://www.youtube.com/@CanalNostalgia",
       "capa": "https://i.imgur.com/5W5W5W5.png"
     }
