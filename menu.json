@@ -4,7 +4,7 @@
       "nome": "TV Online",
       "itens": [
         {
-          "titulo": "TV Online - Pluto TV",
+          "titulo": "Pluto TV",
           "descricao": "Canais gratuitos de filmes, séries e entretenimento ao vivo.",
           "url": "https://pluto.tv/",
           "capa": "https://i.imgur.com/PlutoTVLogo.png"
@@ -12,7 +12,7 @@
       ]
     },
     {
-      "nome": "Desenhos Animados",
+      "nome": "Desenhos",
       "itens": [
         {
           "titulo": "Desenhos Animados Clássicos",
@@ -26,7 +26,7 @@
       "nome": "Animes",
       "itens": [
         {
-          "titulo": "Animes - Crunchyroll",
+          "titulo": "Crunchyroll",
           "descricao": "Assista os melhores animes com legendas em português.",
           "url": "https://www.crunchyroll.com/pt-br/",
           "capa": "https://i.imgur.com/3ZQ3Z3Q.png"
@@ -37,7 +37,7 @@
       "nome": "Novelas",
       "itens": [
         {
-          "titulo": "Novelas - Globoplay",
+          "titulo": "Globoplay",
           "descricao": "Novelas brasileiras clássicas e atuais em streaming.",
           "url": "https://globoplay.globo.com/novelas/",
           "capa": "https://i.imgur.com/7Y7Y7Y7.png"
@@ -59,7 +59,7 @@
       "nome": "YouTube",
       "itens": [
         {
-          "titulo": "YouTube - Canal Nostalgia",
+          "titulo": "Canal Nostalgia",
           "descricao": "Vídeos sobre cultura pop, infância e curiosidades.",
           "url": "https://www.youtube.com/@CanalNostalgia",
           "capa": "https://i.imgur.com/5W5W5W5.png"
