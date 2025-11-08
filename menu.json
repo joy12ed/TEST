@@ -5,20 +5,44 @@
       "itens": [
         {
           "titulo": "Pluto TV",
-          "descricao": "Canais gratuitos de filmes, séries e entretenimento ao vivo.",
+          "descricao": "Filmes, séries e entretenimento ao vivo.",
           "url": "https://pluto.tv/",
           "capa": "https://i.imgur.com/PlutoTVLogo.png"
+        },
+        {
+          "titulo": "Red Bull TV",
+          "descricao": "Esportes radicais e documentários.",
+          "url": "https://www.redbull.com/br-pt/live-tv",
+          "capa": "https://i.imgur.com/RedBullTVLogo.png"
+        },
+        {
+          "titulo": "Canal Brasil",
+          "descricao": "Cinema nacional e cultura brasileira.",
+          "url": "https://globoplay.globo.com/canal-brasil/",
+          "capa": "https://i.imgur.com/CanalBrasilLogo.png"
         }
       ]
     },
     {
-      "nome": "Desenhos",
+      "nome": "Desenhos Animados",
       "itens": [
         {
-          "titulo": "Desenhos Animados Clássicos",
-          "descricao": "Reviva os clássicos da infância com desenhos nostálgicos.",
+          "titulo": "Clássicos da TV",
+          "descricao": "Desenhos nostálgicos dos anos 80 e 90.",
           "url": "https://www.youtube.com/@DesenhosAnimadosClassicos",
           "capa": "https://i.imgur.com/0Z7Z0ZQ.png"
+        },
+        {
+          "titulo": "Cartoon Network",
+          "descricao": "Desenhos modernos e clássicos.",
+          "url": "https://www.cartoonnetwork.com.br/",
+          "capa": "https://i.imgur.com/CartoonLogo.png"
+        },
+        {
+          "titulo": "TV Rá Tim Bum",
+          "descricao": "Conteúdo educativo e infantil.",
+          "url": "https://www.tvratimbum.com.br/",
+          "capa": "https://i.imgur.com/RatimbumLogo.png"
         }
       ]
     },
@@ -27,9 +51,21 @@
       "itens": [
         {
           "titulo": "Crunchyroll",
-          "descricao": "Assista os melhores animes com legendas em português.",
+          "descricao": "Animes legendados em português.",
           "url": "https://www.crunchyroll.com/pt-br/",
           "capa": "https://i.imgur.com/3ZQ3Z3Q.png"
+        },
+        {
+          "titulo": "Netflix Animes",
+          "descricao": "Catálogo de animes populares.",
+          "url": "https://www.netflix.com/br/browse/genre/7424",
+          "capa": "https://i.imgur.com/NetflixAnimeLogo.png"
+        },
+        {
+          "titulo": "Animes Online",
+          "descricao": "Streaming gratuito de animes.",
+          "url": "https://animesonline.cc/",
+          "capa": "https://i.imgur.com/AnimesOnlineLogo.png"
         }
       ]
     },
@@ -38,9 +74,21 @@
       "itens": [
         {
           "titulo": "Globoplay",
-          "descricao": "Novelas brasileiras clássicas e atuais em streaming.",
+          "descricao": "Novelas brasileiras clássicas e atuais.",
           "url": "https://globoplay.globo.com/novelas/",
           "capa": "https://i.imgur.com/7Y7Y7Y7.png"
+        },
+        {
+          "titulo": "SBT Vídeos",
+          "descricao": "Novelas e programas do SBT.",
+          "url": "https://www.sbtvideos.com.br/",
+          "capa": "https://i.imgur.com/SBTLogo.png"
+        },
+        {
+          "titulo": "Record Play",
+          "descricao": "Novelas e séries da Record.",
+          "url": "https://playplus.com/",
+          "capa": "https://i.imgur.com/RecordLogo.png"
         }
       ]
     },
@@ -49,9 +97,21 @@
       "itens": [
         {
           "titulo": "Séries Antigas",
-          "descricao": "Coleção de séries antigas para maratonar com nostalgia.",
+          "descricao": "Coleção nostálgica para maratonar.",
           "url": "https://www.dailymotion.com/playlist/x8eb54",
           "capa": "https://i.imgur.com/9X9X9X9.png"
+        },
+        {
+          "titulo": "Netflix Séries",
+          "descricao": "Séries originais e premiadas.",
+          "url": "https://www.netflix.com/br/",
+          "capa": "https://i.imgur.com/NetflixSeriesLogo.png"
+        },
+        {
+          "titulo": "Prime Video",
+          "descricao": "Séries exclusivas e populares.",
+          "url": "https://www.primevideo.com/",
+          "capa": "https://i.imgur.com/PrimeVideoLogo.png"
         }
       ]
     },
@@ -60,9 +120,21 @@
       "itens": [
         {
           "titulo": "Canal Nostalgia",
-          "descricao": "Vídeos sobre cultura pop, infância e curiosidades.",
+          "descricao": "Cultura pop e curiosidades.",
           "url": "https://www.youtube.com/@CanalNostalgia",
           "capa": "https://i.imgur.com/5W5W5W5.png"
+        },
+        {
+          "titulo": "Manual do Mundo",
+          "descricao": "Experimentos e ciência divertida.",
+          "url": "https://www.youtube.com/@ManualDoMundo",
+          "capa": "https://i.imgur.com/ManualLogo.png"
+        },
+        {
+          "titulo": "Você Sabia?",
+          "descricao": "Fatos curiosos e entretenimento.",
+          "url": "https://www.youtube.com/@vocesabia",
+          "capa": "https://i.imgur.com/VoceSabiaLogo.png"
         }
       ]
     }
