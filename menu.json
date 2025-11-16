@@ -3,29 +3,28 @@
     {
       "name": "TV Ao Vivo",
       "items": [
-       {
-     "id": 102,
-      "name": "Web Tv Clássicos do Cinema Ao Vivo",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
-      "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj97NLgK1cGjNGdB1AQwIZzKX-1Lo-uXXhB2QwjT1iuD9sQkqEn1EcrCUbiqDWnzlqMMsBoH4Kk_TXYzPb7aCA-1n7damAlzLoToY_0GWNolV0qZaV9ZWW0xRZ7P92bVdfIoBgPCq_PxPEiK-C0hyslftk74PCtdcygB5YcLgFCqZ0Mm388Pq-cAaeLVpbx/s225/download.png",
-      "description": "Sony One Cinema é um canal de TV ao vivo dedicado a exibir os melhores filmes clássicos e contemporâneos de todo o mundo. Com uma programação cuidadosamente selecionada, o canal traz obras-primas do cinema, incluindo filmes aclamados pela crítica e vencedores de prêmios internacionais. Além disso, oferece uma variedade de gêneros, desde dramas intensos a comédias leves, garantindo entretenimento de qualidade para todos os gostos. O Sony One Cinema é o destino ideal para os amantes do cinema que desejam revisitar grandes clássicos ou descobrir novas joias cinematográficas. Com uma transmissão em alta definição e sem interrupções comerciais, a experiência de assistir ao Sony One Cinema é verdadeiramente imersiva. Sintonize e aproveite a magia do cinema no conforto de sua casa, acessando uma biblioteca rica e diversificada de filmes que marcaram época."
-      },      
-     {
-     "id": 102,
-      "name": "Sony One Cinema Ao Vivo",
-      "url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8",
-      "cover": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp",
-      "description": "Sony One Cinema é um canal de TV ao vivo dedicado a exibir os melhores filmes clássicos e contemporâneos de todo o mundo. Com uma programação cuidadosamente selecionada, o canal traz obras-primas do cinema, incluindo filmes aclamados pela crítica e vencedores de prêmios internacionais. Além disso, oferece uma variedade de gêneros, desde dramas intensos a comédias leves, garantindo entretenimento de qualidade para todos os gostos. O Sony One Cinema é o destino ideal para os amantes do cinema que desejam revisitar grandes clássicos ou descobrir novas joias cinematográficas. Com uma transmissão em alta definição e sem interrupções comerciais, a experiência de assistir ao Sony One Cinema é verdadeiramente imersiva. Sintonize e aproveite a magia do cinema no conforto de sua casa, acessando uma biblioteca rica e diversificada de filmes que marcaram época."
-      },
-     {
-     "id": 102,
-      "name": "Sony One Cinema Ao Vivo",
-      "url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8",
-      "cover": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp",
-      "description": "Sony One Cinema é um canal de TV ao vivo dedicado a exibir os melhores filmes clássicos e contemporâneos de todo o mundo. Com uma programação cuidadosamente selecionada, o canal traz obras-primas do cinema, incluindo filmes aclamados pela crítica e vencedores de prêmios internacionais. Além disso, oferece uma variedade de gêneros, desde dramas intensos a comédias leves, garantindo entretenimento de qualidade para todos os gostos. O Sony One Cinema é o destino ideal para os amantes do cinema que desejam revisitar grandes clássicos ou descobrir novas joias cinematográficas. Com uma transmissão em alta definição e sem interrupções comerciais, a experiência de assistir ao Sony One Cinema é verdadeiramente imersiva. Sintonize e aproveite a magia do cinema no conforto de sua casa, acessando uma biblioteca rica e diversificada de filmes que marcaram época."
-      }
+        {
+          "id": 101,
+          "name": "Web Tv Clássicos do Cinema Ao Vivo",
+          "url": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
+          "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj97NLgK1cGjNGdB1AQwIZzKX-1Lo-uXXhB2QwjT1iuD9sQkqEn1EcrCUbiqDWnzlqMMsBoH4Kk_TXYzPb7aCA-1n7damAlzLoToY_0GWNolV0qZaV9ZWW0xRZ7P92bVdfIoBgPCq_PxPEiK-C0hyslftk74PCtdcygB5YcLgFCqZ0Mm388Pq-cAaeLVpbx/s225/download.png",
+          "description": "Canal dedicado a filmes clássicos e contemporâneos, transmitidos ao vivo em alta definição."
+        },
+        {
+          "id": 102,
+          "name": "Sony One Cinema Ao Vivo",
+          "url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8",
+          "cover": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp",
+          "description": "Sony One Cinema traz uma programação variada de filmes premiados e grandes clássicos do cinema."
+        },
+        {
+          "id": 103,
+          "name": "Sony One Cinema HD",
+          "url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8",
+          "cover": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp",
+          "description": "Transmissão em alta definição de filmes clássicos e contemporâneos, sem intervalos comerciais."
+        }
       ]
-
       
     },
     {
