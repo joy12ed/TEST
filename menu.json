@@ -1,140 +1,93 @@
 {
-  "categorias": [
+  "categories": [
     {
-      "nome": "TV Online",
-      "itens": [
+      "name": "TV Ao Vivo",
+      "items": [
         {
-          "titulo": "Pluto TV",
-          "descricao": "Filmes, séries e entretenimento ao vivo.",
-          "url": "https://pluto.tv/",
-          "capa": "https://i.imgur.com/PlutoTVLogo.png"
+          "id": 101,
+          "title": "Canal de Notícias",
+          "description": "Fique por dentro das últimas notícias do Brasil e do mundo.",
+          "cardImageUrl": "https://i.imgur.com/8so7F29.png",
+          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
         },
         {
-          "titulo": "Red Bull TV",
-          "descricao": "Esportes radicais e documentários.",
-          "url": "https://www.redbull.com/br-pt/live-tv",
-          "capa": "https://i.imgur.com/RedBullTVLogo.png"
-        },
-        {
-          "titulo": "Canal Brasil",
-          "descricao": "Cinema nacional e cultura brasileira.",
-          "url": "https://globoplay.globo.com/canal-brasil/",
-          "capa": "https://i.imgur.com/CanalBrasilLogo.png"
+          "id": 102,
+          "title": "Canal de Esportes",
+          "description": "Jogos ao vivo, análises e debates esportivos.",
+          "cardImageUrl": "https://i.imgur.com/1v2C5b4.png",
+          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
         }
       ]
     },
     {
-      "nome": "Desenhos Animados",
-      "itens": [
+      "name": "Filmes",
+      "items": [
         {
-          "titulo": "Clássicos da TV",
-          "descricao": "Desenhos nostálgicos dos anos 80 e 90.",
-          "url": "https://www.youtube.com/@DesenhosAnimadosClassicos",
-          "capa": "https://i.imgur.com/0Z7Z0ZQ.png"
-        },
-        {
-          "titulo": "Cartoon Network",
-          "descricao": "Desenhos modernos e clássicos.",
-          "url": "https://www.cartoonnetwork.com.br/",
-          "capa": "https://i.imgur.com/CartoonLogo.png"
-        },
-        {
-          "titulo": "TV Rá Tim Bum",
-          "descricao": "Conteúdo educativo e infantil.",
-          "url": "https://www.tvratimbum.com.br/",
-          "capa": "https://i.imgur.com/RatimbumLogo.png"
+          "id": 201,
+          "title": "Big Buck Bunny",
+          "description": "Um coelho gigante e gentil encontra três roedores maliciosos. Uma animação clássica de código aberto.",
+          "cardImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/800px-Big_buck_bunny_poster_big.jpg",
+          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
         }
       ]
     },
     {
-      "nome": "Animes",
-      "itens": [
+      "name": "Anime",
+      "items": [
         {
-          "titulo": "Crunchyroll",
-          "descricao": "Animes legendados em português.",
-          "url": "https://www.crunchyroll.com/pt-br/",
-          "capa": "https://i.imgur.com/3ZQ3Z3Q.png"
-        },
-        {
-          "titulo": "Netflix Animes",
-          "descricao": "Catálogo de animes populares.",
-          "url": "https://www.netflix.com/br/browse/genre/7424",
-          "capa": "https://i.imgur.com/NetflixAnimeLogo.png"
-        },
-        {
-          "titulo": "Animes Online",
-          "descricao": "Streaming gratuito de animes.",
-          "url": "https://animesonline.cc/",
-          "capa": "https://i.imgur.com/AnimesOnlineLogo.png"
+          "id": 301,
+          "title": "A Jornada de Kaito",
+          "description": "Um jovem espadachim busca vingança em um mundo místico cheio de demônios e samurais.",
+          "cardImageUrl": "https://i.imgur.com/s65T163.jpeg",
+          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
         }
       ]
     },
     {
-      "nome": "Novelas",
-      "itens": [
+      "name": "Desenho",
+      "items": [
         {
-          "titulo": "Globoplay",
-          "descricao": "Novelas brasileiras clássicas e atuais.",
-          "url": "https://globoplay.globo.com/novelas/",
-          "capa": "https://i.imgur.com/7Y7Y7Y7.png"
-        },
-        {
-          "titulo": "SBT Vídeos",
-          "descricao": "Novelas e programas do SBT.",
-          "url": "https://www.sbtvideos.com.br/",
-          "capa": "https://i.imgur.com/SBTLogo.png"
-        },
-        {
-          "titulo": "Record Play",
-          "descricao": "Novelas e séries da Record.",
-          "url": "https://playplus.com/",
-          "capa": "https://i.imgur.com/RecordLogo.png"
+          "id": 401,
+          "title": "As Aventuras de Pipo",
+          "description": "Pipo, o esquilo, e seus amigos da floresta se metem em grandes confusões para proteger seu lar.",
+          "cardImageUrl": "https://i.imgur.com/k2M2d56.jpeg",
+          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
         }
       ]
     },
     {
-      "nome": "Séries",
-      "itens": [
+      "name": "Comédia",
+      "items": [
         {
-          "titulo": "Séries Antigas",
-          "descricao": "Coleção nostálgica para maratonar.",
-          "url": "https://www.dailymotion.com/playlist/x8eb54",
-          "capa": "https://i.imgur.com/9X9X9X9.png"
-        },
-        {
-          "titulo": "Netflix Séries",
-          "descricao": "Séries originais e premiadas.",
-          "url": "https://www.netflix.com/br/",
-          "capa": "https://i.imgur.com/NetflixSeriesLogo.png"
-        },
-        {
-          "titulo": "Prime Video",
-          "descricao": "Séries exclusivas e populares.",
-          "url": "https://www.primevideo.com/",
-          "capa": "https://i.imgur.com/PrimeVideoLogo.png"
+          "id": 501,
+          "title": "Vizinhos do Barulho",
+          "description": "Dois vizinhos competitivos transformam a vida tranquila do bairro em um campo de batalha hilário.",
+          "cardImageUrl": "https://i.imgur.com/0Fw2u7H.jpeg",
+          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
         }
       ]
     },
     {
-      "nome": "YouTube",
-      "itens": [
+      "name": "Novelas",
+      "items": [
         {
-          "titulo": "Canal Nostalgia",
-          "descricao": "Cultura pop e curiosidades.",
-          "url": "https://www.youtube.com/@CanalNostalgia",
-          "capa": "https://i.imgur.com/5W5W5W5.png"
-        },
+          "id": 601,
+          "title": "Coração Dividido",
+          "description": "Uma história de amor proibido entre duas famílias rivais que disputam o poder na cidade.",
+          "cardImageUrl": "https://i.imgur.com/YwP5Y3A.jpeg",
+          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "items": [
         {
-          "titulo": "Manual do Mundo",
-          "descricao": "Experimentos e ciência divertida.",
-          "url": "https://www.youtube.com/@ManualDoMundo",
-          "capa": "https://i.imgur.com/ManualLogo.png"
-        },
-        {
-          "titulo": "Você Sabia?",
-          "descricao": "Fatos curiosos e entretenimento.",
-          "url": "https://www.youtube.com/@vocesabia",
-          "capa": "https://i.imgur.com/VoceSabiaLogo.png"
+          "id": 701,
+          "title": "PLANET EARTH III | Official Trailer",
+          "description": "O trailer oficial da incrível série de documentários da BBC. (AVISO: Este é um vídeo de exemplo, leia a explicação sobre o YouTube).",
+          "cardImageUrl": "https://i.ytimg.com/vi/xxXqSaspSRA/maxresdefault.jpg",
+          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
         }
       ]
     }
