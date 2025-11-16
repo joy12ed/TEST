@@ -5,41 +5,24 @@
       "items": [
         {
           "id": 101,
-          "name": "Sony One Cinema Ao Vivo",
-          "url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8",
-          "cover": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp",
-          "description": "Sony One Cinema é um canal de TV ao vivo dedicado a exibir os melhores filmes clássicos e contemporâneos de todo o mundo."
+          "name": "Web Tv Clássicos do Cinema Ao Vivo",
+          "url": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
+          "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj97NLgK1cGjNGdB1AQwIZzKX-1Lo-uXXhB2QwjT1iuD9sQkqEn1EcrCUbiqDWnzlqMMsBoH4Kk_TXYzPb7aCA-1n7damAlzLoToY_0GWNolV0qZaV9ZWW0xRZ7P92bVdfIoBgPCq_PxPEiK-C0hyslftk74PCtdcygB5YcLgFCqZ0Mm388Pq-cAaeLVpbx/s225/download.png",
+          "description": "Canal dedicado a filmes clássicos e contemporâneos, transmitidos ao vivo em alta definição."
         },
         {
           "id": 102,
-          "name": "Web Tv Clássicos do Cinema",
-          "url": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
-          "cover": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp",
-          "description": "Web TV Clássicos do Cinema é uma emissora online dedicada a transmitir filmes clássicos 24 horas por dia."
-        }
-      ]
-    },
-    {
-      "name": "Filmes",
-      "items": [
+          "name": "Sony One Cinema Ao Vivo",
+          "url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8",
+          "cover": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp",
+          "description": "Sony One Cinema traz uma programação variada de filmes premiados e grandes clássicos do cinema."
+        },
         {
-          "id": 201,
-          "name": "Big Buck Bunny",
-          "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/800px-Big_buck_bunny_poster_big.jpg",
-          "description": "Um coelho gigante e gentil encontra três roedores maliciosos. Uma animação clássica de código aberto."
-        }
-      ]
-    },
-    {
-      "name": "Novelas",
-      "items": [
-        {
-          "id": 601,
-          "name": "Coração Dividido",
-          "description": "Uma história de amor proibido entre duas famílias rivais que disputam o poder na cidade.",
-          "cover": "https://i.imgur.com/YwP5Y3A.jpeg",
-          "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+          "id": 103,
+          "name": "Sony One Cinema HD",
+          "url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8",
+          "cover": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp",
+          "description": "Transmissão em alta definição de filmes clássicos e contemporâneos, sem intervalos comerciais."
         }
       ]
     }
