@@ -56,7 +56,8 @@
       "url": "http://meu-servidor.com/stream/esportes.m3u8",
       "cover": "http://meu-servidor.com/imagens/esportes.png",
       "description": "Transmissões ao vivo de futebol, basquete e outros esportes."
-    },
+    }
+  
       ]
 
       
@@ -72,6 +73,7 @@
           "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
         }
       ]
+      
     },
     {
       "name": "Anime",
