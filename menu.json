@@ -1,5 +1,4 @@
-
-    {
+{
   "categories": [
     {
       "name": "TV Ao Vivo",
@@ -9,78 +8,26 @@
           "name": "Sony One Cinema Ao Vivo",
           "url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8",
           "cover": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp",
-          "description": "Sony One Cinema é um canal de TV ao vivo dedicado a exibir os melhores filmes clássicos e contemporâneos de todo o mundo. Com uma programação cuidadosamente selecionada, o canal traz obras-primas do cinema, incluindo filmes aclamados pela crítica e vencedores de prêmios internacionais."
+          "description": "Sony One Cinema é um canal de TV ao vivo dedicado a exibir os melhores filmes clássicos e contemporâneos de todo o mundo."
         },
         {
           "id": 102,
           "name": "Web Tv Clássicos do Cinema",
           "url": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
           "cover": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp",
-          "description": "Web TV Clássicos do Cinema é uma emissora online dedicada a transmitir filmes clássicos 24 horas por dia, conectando gerações e mantendo viva a magia dos títulos que escreveram a história do cinema."
-        },
-        {
-          "id": 103,
-          "name": "Sony One Cinema HD",
-          "url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8",
-          "cover": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp",
-          "description": "Transmissão em alta definição de filmes clássicos e contemporâneos, sem intervalos comerciais."
-        },
-          {
-          "id": 701,
-          "title": "PLANET EARTH III | Official Trailer",
-          "description": "O trailer oficial da incrível série de documentários da BBC. (AVISO: Este é um vídeo de exemplo, leia a explicação sobre o YouTube).",
-          "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp",
-          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          "description": "Web TV Clássicos do Cinema é uma emissora online dedicada a transmitir filmes clássicos 24 horas por dia."
         }
       ]
-      
     },
     {
       "name": "Filmes",
       "items": [
         {
           "id": 201,
-          "title": "Big Buck Bunny",
-          "description": "Um coelho gigante e gentil encontra três roedores maliciosos. Uma animação clássica de código aberto.",
-          "cardImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/800px-Big_buck_bunny_poster_big.jpg",
-          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-        }
-      ]
-      
-    },
-    {
-      "name": "Anime",
-      "items": [
-        {
-          "id": 301,
-          "title": "A Jornada de Kaito",
-          "description": "Um jovem espadachim busca vingança em um mundo místico cheio de demônios e samurais.",
-          "cardImageUrl": "https://i.imgur.com/s65T163.jpeg",
-          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
-        }
-      ]
-    },
-    {
-      "name": "Desenho",
-      "items": [
-        {
-          "id": 401,
-          "title": "As Aventuras de Pipo",
-          "description": "Pipo, o esquilo, e seus amigos da floresta se metem em grandes confusões para proteger seu lar.",
-          "cardImageUrl": "https://i.imgur.com/k2M2d56.jpeg",
-          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-        }
-      ]
-    },
-    {
-      "name": "Comédia",
-      "items": [
-        {
-          "id": 501,
-          "title": "Vizinhos do Barulho",
-          "description": "Dois vizinhos competitivos transformam a vida tranquila do bairro em um campo de batalha hilário.",
-          "cardImageUrl": "https://i.imgur.com/0Fw2u7H.jpeg",
-          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          "name": "Big Buck Bunny",
+          "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/800px-Big_buck_bunny_poster_big.jpg",
+          "description": "Um coelho gigante e gentil encontra três roedores maliciosos. Uma animação clássica de código aberto."
         }
       ]
     },
@@ -89,22 +36,10 @@
       "items": [
         {
           "id": 601,
-          "title": "Coração Dividido",
+          "name": "Coração Dividido",
           "description": "Uma história de amor proibido entre duas famílias rivais que disputam o poder na cidade.",
-          "cardImageUrl": "https://i.imgur.com/YwP5Y3A.jpeg",
-          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
-        }
-      ]
-    },
-    {
-      "name": "YouTube",
-      "items": [
-        {
-          "id": 701,
-          "title": "PLANET EARTH III | Official Trailer",
-          "description": "O trailer oficial da incrível série de documentários da BBC. (AVISO: Este é um vídeo de exemplo, leia a explicação sobre o YouTube).",
-          "cardImageUrl": "https://i.ytimg.com/vi/xxXqSaspSRA/maxresdefault.jpg",
-          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          "cover": "https://i.imgur.com/YwP5Y3A.jpeg",
+          "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
         }
       ]
     }
