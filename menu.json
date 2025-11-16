@@ -23,6 +23,13 @@
           "url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8",
           "cover": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp",
           "description": "Transmissão em alta definição de filmes clássicos e contemporâneos, sem intervalos comerciais."
+        },
+          {
+          "id": 701,
+          "title": "PLANET EARTH III | Official Trailer",
+          "description": "O trailer oficial da incrível série de documentários da BBC. (AVISO: Este é um vídeo de exemplo, leia a explicação sobre o YouTube).",
+          "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp",
+          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
         }
       ]
       
