@@ -115,16 +115,8 @@
           "cardImageUrl": "",
           "description": ""
         },
-        
-        
-        
       ]   
     },
-
-
-
-
-    
     {
       "name": "Filmes",
       "items": [
@@ -137,8 +129,6 @@
         }
       ]
     },
-
-    
     {
       "name": "Anime",
       "items": [
@@ -169,12 +159,9 @@
           "videoUrl": "",
           "cardImageUrl": "",
           "description": ""
-        },
-        
+        }, 
       ]
     },
-
-    
     {
       "name": "Desenho",
       "items": [
@@ -211,12 +198,9 @@
           "videoUrl": "",
           "cardImageUrl": "",
           "description": ""
-        },
-        
+        }, 
       ]
     },
-
-    
     {
       "name": "Comédia",
       "items": [
@@ -229,8 +213,6 @@
         }
       ]
     },
-
-    
     {
       "name": "Novelas",
       "items": [
@@ -243,8 +225,6 @@
         }
       ]
     },
-
-    
     {
       "name": "YouTube",
       "items": [
