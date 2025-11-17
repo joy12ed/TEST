@@ -93,7 +93,7 @@
           "videoUrl": "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8",
           "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86600ed6f09e4bf48be4e55a0cd01536.webp",
           "description": "Record News é um canal de televisão comercial aberto brasileiro, sediado em São Paulo. Com a programação dedicada principalmente ao telejornalismo, a Record News pertence ao Grupo Record. Desde sua criação, a emissora se destaca pela cobertura abrangente dos acontecimentos nacionais e internacionais, proporcionando aos telespectadores informações precisas e atualizadas. Seu compromisso com o jornalismo de qualidade e imparcialidade faz da Record News uma referência no setor. Além disso, a grade inclui programas de análise e debate, garantindo uma visão ampla e crítica dos principais temas da atualidade."
-        }   
+        },   
       ]   
     },
 
@@ -109,7 +109,7 @@
           "description": "Um coelho gigante e gentil encontra três roedores maliciosos. Uma animação clássica de código aberto.",
           "cardImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/800px-Big_buck_bunny_poster_big.jpg",
           "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-        }
+        },
       ]
     },
 
@@ -137,7 +137,7 @@
           "videoUrl": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
           "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e015a80a3d45e6087556b4e4556e08cb.webp",
           "description": "O Animax é o primeiro canal de televisão dedicado à exibição de animes 24 horas por dia na América Latina. Com uma programação que abrange desde clássicos até os lançamentos mais recentes, o Animax é o destino ideal para o público jovem que busca uma alternativa de entretenimento atual e vibrante. O canal oferece uma experiência imersiva no mundo dos animes, proporcionando aos telespectadores uma variedade de gêneros, incluindo ação, aventura, fantasia e romance. Além disso, o Animax frequentemente exibe especiais e maratonas de séries populares, garantindo diversão contínua. Com sua programação inovadora e envolvente, o Animax se destaca como a principal escolha para os fãs de anime na região."
-        }
+        },
       ]
     },
 
@@ -160,7 +160,7 @@
           "videoUrl": "https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8",
           "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b2343886b3d164425e642250d02dd8cd.webp",
           "description": "Desenhos Clássicos TV é o canal perfeito para os apaixonados por animação que desejam reviver a era dourada dos desenhos. Com uma programação ao vivo repleta de episódios icônicos, o canal apresenta personagens inesquecíveis e narrativas que marcaram gerações. Cada desenho, dublado cuidadosamente em português, traz à tona a nostalgia da infância, proporcionando uma experiência envolvente e acolhedora para todas as idades. A qualidade do conteúdo e a curadoria criteriosa fazem deste canal uma referência para quem busca diversão, emoção e lembranças do passado. Explore um universo de histórias que encantam e inspiram, transportando o espectador para os momentos mais memoráveis da animação clássica."
-        }    
+        },    
       ]
     },
 
@@ -175,7 +175,7 @@
           "description": "Dois vizinhos competitivos transformam a vida tranquila do bairro em um campo de batalha hilário.",
           "cardImageUrl": "https://i.imgur.com/0Fw2u7H.jpeg",
           "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-        }
+        },
       ]
     },
 
@@ -189,7 +189,7 @@
           "description": "Uma história de amor proibido entre duas famílias rivais que disputam o poder na cidade.",
           "cardImageUrl": "https://i.imgur.com/YwP5Y3A.jpeg",
           "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
-        }
+        },
       ]
     },
 
@@ -203,7 +203,7 @@
           "description": "O trailer oficial da incrível série de documentários da BBC. (AVISO: Este é um vídeo de exemplo, leia a explicação sobre o YouTube).",
           "cardImageUrl": "https://i.ytimg.com/vi/xxXqSaspSRA/maxresdefault.jpg",
           "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-        }
+        },
       ]
     }
   ]
