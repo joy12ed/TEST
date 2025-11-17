@@ -25,70 +25,70 @@
           "description": "Sony One Cinema é um canal de TV ao vivo dedicado a exibir os melhores filmes clássicos e contemporâneos de todo o mundo. Com uma programação cuidadosamente selecionada, o canal traz obras-primas do cinema, incluindo filmes aclamados pela crítica e vencedores de prêmios internacionais. Além disso, oferece uma variedade de gêneros, desde dramas intensos a comédias leves, garantindo entretenimento de qualidade para todos os gostos. O Sony One Cinema é o destino ideal para os amantes do cinema que desejam revisitar grandes clássicos ou descobrir novas joias cinematográficas. Com uma transmissão em alta definição e sem interrupções comerciais, a experiência de assistir ao Sony One Cinema é verdadeiramente imersiva. Sintonize e aproveite a magia do cinema no conforto de sua casa, acessando uma biblioteca rica e diversificada de filmes que marcaram época."
         },
          {
-          "id": 101,
+          "id": 104,
           "title": "Moviesphere Brazil Ao Vivo",
           "videoUrl": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8",
           "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2112f7942be7a7bf3f4b41e082cee2b8.webp",
           "description": "Moviesphere Brazil é o canal ideal para os amantes de cinema, transmitindo gratuitamente seus filmes favoritos. Com uma seleção diversificada de títulos oferecidos pela Lionsgate, o canal oferece uma experiência cinematográfica completa no conforto de sua casa. De dramas emocionantes a comédias hilariantes, passando por thrillers e filmes de ação, Moviesphere Brazil tem algo para todos os gostos. Sintonize agora e desfrute de uma programação repleta de grandes sucessos e clássicos do cinema, tudo sem custo algum."
         },
          {
-          "id": 104,
+          "id": 105,
           "title": "Grjngo Ao Vivo",
           "videoUrl": "https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8",
           "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp",
           "description": "Grjngo é um dos maiores canais de filmes e séries de faroeste. Uma enorme seleção de filmes exclusivamente coloridos em HD!"
         },
          {
-          "id": 105,
+          "id": 106,
           "title": "AWTV Ao Vivo",
           "videoUrl": "https://streaming.cloudecast.com/hls/awtv/index.m3u8",
           "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/862465d1835288b2ae6d11f27507a791.webp",
           "description": "A AWCChannel, Canal IPTV acompanhando e produzindo conteúdos Originais de qualidade e trazendo informação e diversão para seus WebViews. Canal Jovem que busca divertir, entreter e informar Uma Nova opção de qualidade para Anunciantes e Empresas buscando visibilidade."
         },
          {
-          "id": 106,
+          "id": 107,
           "title": "1980 Channel Ao Vivo",
           "videoUrl": "https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8",
           "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f46cc4e5dc24413f02ca28ab170fa77.webp",
           "description": "O 1980 Channel é muito mais do que apenas um canal de televisão; é uma experiência imersiva na cultura cinematográfica da década de 1980. Com uma seleção cuidadosamente elaborada de filmes que definiram uma era, este canal proporciona uma viagem nostálgica para os telespectadores, permitindo-lhes reviver os momentos mais emblemáticos do cinema da época. Desde os clássicos de ação cheios de adrenalina até as emocionantes histórias de amor, passando pelas comédias hilariantes e pelos filmes de ficção científica que desafiaram a imaginação, o 1980 Channel oferece uma variedade de conteúdo para todos os gostos. Além disso, ao assistir a este canal, os espectadores têm a oportunidade de se reconectar com uma era que moldou a cultura pop e influenciou gerações posteriores. Prepare-se para uma jornada no tempo com o 1980 Channel, onde a magia e o encanto da década de 1980 estão vivos e pulsantes."
         },
          {
-          "id": 107,
+          "id": 108,
           "title": "TVI Ao Vivo",
           "videoUrl": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8",
           "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/467691868df05a4035d5b6e8d361e79f.webp",
           "description": "Televisão Independente (TVI). As emissões regulares do canal iniciaram-se a 20 de fevereiro de 1993, como o segundo canal privado e o quarto generalista, que nessa altura tinha o nome de "4", por ser o 4 canal de televisão. As novelas e séries da TVI estão presentes em mais de 120 países."
         },
          {
-          "id": 108,
+          "id": 109,
           "title": "Canal 29 Ao Vivo",
           "videoUrl": "https://stmv1.srvif.com/canal29/canal29/playlist.m3u8",
           "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dcb3ff84b8f31ddc39ef213b42402f75.webp",
           "description": "O Canal 29 é dedicado a trazer de volta a magia das séries antigas dos anos 70 e 80, todas dubladas em português, para o público de São Paulo e de todo o Brasil. Com transmissão 24 horas por dia, o canal oferece uma experiência única para quem deseja reviver momentos marcantes da televisão. A programação inclui produções que marcaram gerações, valorizando a nostalgia e a memória afetiva dos telespectadores. Além de entreter, o Canal 29 preserva a história da TV, tornando-se uma referência em conteúdo retrô e cultura pop. Para os apaixonados por clássicos, é uma oportunidade de mergulhar em histórias inesquecíveis que continuam encantando diferentes gerações."
         },
          {
-          "id": 109,
+          "id": 110,
           "title": "Rede Brasil de Televisão - RBTV Ao Vivo",
           "videoUrl": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8",
           "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0049b33f9d70ac2fbea58163c3053423.webp",
           "description": "A Rede Brasil de Televisão (RBTV) ao vivo, sediada em São Paulo, é uma emissora aberta que conquistou espaço no cenário nacional desde sua fundação em 2007. Reconhecida por sua programação diversificada, a RBTV oferece séries clássicas, filmes premiados, jornalismo de credibilidade e programas culturais que atraem diferentes gerações. Entre os destaques estão produções como a Sessão Oriental, que apresenta animes de sucesso, além de Sessões de Filmes com grandes clássicos do cinema. O canal também investe em jornalismo de qualidade, com o programa Brasil News, comandado por nomes renomados da comunicação. A Rede Brasil de Televisão São Paulo é referência em entretenimento nostálgico e informação atualizada, consolidando-se como uma das emissoras mais queridas do público brasileiro."
         },
            {
-          "id": 110,
+          "id": 111,
           "title": "Rede TV Ao Vivo",
           "videoUrl": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8",
           "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b0baf19518fb782525c37b40c2f5d9b5.webp",
           "description": "A Rede TV é um dos principais canais de televisão ao vivo em português, com sede em São Paulo, oferecendo uma programação diversificada que agrada a diferentes públicos. Reconhecida por seus programas de humor, talk shows, telejornais, atrações esportivas, séries, entrevistas e programas femininos, a emissora combina informação e entretenimento de forma dinâmica. Com produções originais e cobertura jornalística de qualidade, a Rede TV se destaca por trazer conteúdos que refletem a cultura brasileira e acompanham as tendências nacionais e internacionais. Seja para acompanhar as últimas notícias, assistir a debates relevantes ou se divertir com atrações leves e descontraídas, o canal mantém uma conexão próxima com o público. Sua grade variada garante opções para todos os gostos, consolidando a Rede TV como referência no cenário televisivo brasileiro."
         },
            {
-          "id": 111,
+          "id": 112,
           "title": "Filmes Online Ao Vivo",
           "videoUrl": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8",
           "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf711b0c34fdda729cf379ba14f8cffb.webp",
           "description": "O canal Filmes Online oferece uma experiência cinematográfica única diretamente na sua tela. Com uma programação diversificada, o canal exibe desde os clássicos do cinema até os mais recentes lançamentos de Hollywood. Se você é fã de ação, drama, comédia ou suspense, encontrará uma seleção de filmes que atende a todos os gostos. Além disso, o Filmes Online proporciona uma plataforma interativa onde os espectadores podem participar de discussões ao vivo e compartilhar suas opiniões sobre os filmes em exibição. Isso cria uma comunidade vibrante de cinéfilos que apreciam a sétima arte. Não importa onde você esteja, é possível acessar o canal a qualquer momento, aproveitando a conveniência do streaming ao vivo. Prepare a pipoca e desfrute de uma sessão de cinema no conforto da sua casa com o Filmes Online. Exibindo o canal Moviesphere Brazil."
         },
            {
-          "id": 112,
+          "id": 113,
           "title": "Record News Ao Vivo",
           "videoUrl": "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8",
           "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86600ed6f09e4bf48be4e55a0cd01536.webp",
