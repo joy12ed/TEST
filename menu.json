@@ -8,79 +8,67 @@
           "title": "Web Tv Clássicos do Cinema Ao Vivo",
           "videoUrl": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
           "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp",
-          "description": "Web TV Clássicos do Cinema é uma emissora online em português sediada em Manaus, dedicada a transmitir filmes clássicos 24 horas por dia. Na programação ao vivo você redescobre obras-primas que marcaram décadas: dramas atemporais, comédias icônicas, film noir, aventuras épicas e românticos vintage. Compatível com Smart TVs, computadores e dispositivos móveis, nossa plataforma de streaming oferece alta qualidade de imagem e som, garantindo imersão total em cada cena. Ideal para apaixonados por cultura cinematográfica, este canal conecta gerações e mantém viva a magia dos títulos que escreveram a história do cinema."
+          "description": "Web TV Clássicos do Cinema é uma emissora online em português sediada em Manaus..."
         },
-          {
+        {
           "id": 102,
           "title": "Tv Clássicos Ao Vivo",
           "videoUrl": "https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8",
           "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe290cfa853a15cfac44bb1bf2e924af.webp",
-          "description": "Um Canal de Tv totalmente dedicado a Nostalgia televisiva. Aqui você pode rever as séries ,desenhos, filmes e propagandas que marcaram sua infância. Os clássicos da TV estão aqui"
+          "description": "Um Canal de Tv totalmente dedicado a Nostalgia televisiva..."
         }
-      ]   
+      ]
     },
-
-
-
-    
     {
       "name": "Filmes",
       "items": [
         {
           "id": 201,
           "title": "Big Buck Bunny",
-          "description": "Um coelho gigante e gentil encontra três roedores maliciosos. Uma animação clássica de código aberto.",
+          "description": "Um coelho gigante e gentil encontra três roedores maliciosos...",
           "cardImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/800px-Big_buck_bunny_poster_big.jpg",
           "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-        },
+        }
       ]
     },
-
-    
     {
       "name": "Anime",
       "items": [
-       {
-          "id": 101,
+        {
+          "id": 301,
           "title": "Anime Tv Ao Vivo",
           "videoUrl": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
           "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp",
-          "description": "Anime TV é um canal de TV que transmite animes japoneses 24 horas por dia, com legendas em português. Sua programação exibe vários animes famosos como Naruto, Orange, One Piece e Cavaleiros do Zodíaco entre outros."
+          "description": "Anime TV é um canal de TV que transmite animes japoneses 24 horas por dia..."
         },
-          {
-          "id": 102,
+        {
+          "id": 302,
           "title": "Otaku Sign Tv Ao Vivo",
           "videoUrl": "https://stmv1.srvif.com/anime/anime/playlist.m3u8",
           "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/442d0e9d16595bd786733d685f375b56.webp",
-          "description": "Otaku Sign TV é um canal de televisão dedicado a fãs de animes. Desde sua fundação, o canal tem como objetivo levar aos seus telespectadores o melhor conteúdo relacionado à cultura otaku, trazendo séries e filmes de animação japonesa. Com uma programação repleta de atrações, Otaku Sign TV é um canal indispensável para os aficionados por animes. Seu conteúdo é pensado com muito cuidado e planejado para atender às necessidades de seu público-alvo, trazendo sempre as novidades mais quentes do mundo otaku. Em resumo, Otaku Sign TV é um canal de televisão para os fãs de animes que desejam se manter atualizados sobre as novidades do mundo otaku. Com sua programação variada e atraente, o canal é uma excelente opção para quem deseja mergulhar nesse universo fascinante e descobrir tudo o que há de mais interessante e relevante no mundo dos animes."
-        }       
+          "description": "Otaku Sign TV é um canal de televisão dedicado a fãs de animes..."
+        }
+      ]
     },
-
-
-
-    
     {
       "name": "Desenho",
       "items": [
-       {
-          "id": 101,
+        {
+          "id": 401,
           "title": "Jetsons Tv Ao Vivo",
           "videoUrl": "https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8",
           "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp",
-          "description": "The Jetsons é uma série animada de televisão produzida pela Hanna-Barbera, exibida originalmente entre 1962 e 1963. Foi exibida no Brasil pela TV Excelsior. Mais tarde a série foi relançada com novos episódios produzidos entre 1984 e 1987, como parte do programa The Funtastic World of Hanna-Barbera."
+          "description": "The Jetsons é uma série animada de televisão produzida pela Hanna-Barbera..."
         },
-         {
-          "id": 102,
+        {
+          "id": 402,
           "title": "Desenhos Clássicos TV Ao Vivo",
           "videoUrl": "https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8",
           "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b2343886b3d164425e642250d02dd8cd.webp",
-          "description": "Desenhos Clássicos TV é o canal perfeito para os apaixonados por animação que desejam reviver a era dourada dos desenhos. Com uma programação ao vivo repleta de episódios icônicos, o canal apresenta personagens inesquecíveis e narrativas que marcaram gerações. Cada desenho, dublado cuidadosamente em português, traz à tona a nostalgia da infância, proporcionando uma experiência envolvente e acolhedora para todas as idades. A qualidade do conteúdo e a curadoria criteriosa fazem deste canal uma referência para quem busca diversão, emoção e lembranças do passado. Explore um universo de histórias que encantam e inspiram, transportando o espectador para os momentos mais memoráveis da animação clássica."
-        }  
+          "description": "Desenhos Clássicos TV é o canal perfeito para os apaixonados por animação..."
+        }
       ]
     },
-
-
-    
     {
       "name": "Comédia",
       "items": [
@@ -90,11 +78,9 @@
           "description": "Dois vizinhos competitivos transformam a vida tranquila do bairro em um campo de batalha hilário.",
           "cardImageUrl": "https://i.imgur.com/0Fw2u7H.jpeg",
           "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-        },
+        }
       ]
     },
-
-    
     {
       "name": "Novelas",
       "items": [
@@ -104,21 +90,19 @@
           "description": "Uma história de amor proibido entre duas famílias rivais que disputam o poder na cidade.",
           "cardImageUrl": "https://i.imgur.com/YwP5Y3A.jpeg",
           "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
-        },
+        }
       ]
     },
-
-    
     {
       "name": "YouTube",
       "items": [
         {
           "id": 701,
           "title": "PLANET EARTH III | Official Trailer",
-          "description": "O trailer oficial da incrível série de documentários da BBC. (AVISO: Este é um vídeo de exemplo, leia a explicação sobre o YouTube).",
+          "description": "O trailer oficial da incrível série de documentários da BBC...",
           "cardImageUrl": "https://i.ytimg.com/vi/xxXqSaspSRA/maxresdefault.jpg",
           "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-        },
+        }
       ]
     }
   ]
