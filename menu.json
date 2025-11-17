@@ -1,1 +1,102 @@
-{ "categories": [ { "name": "TV Ao Vivo", "items": [ { "id": 101, "name": "Web Tv Clássicos do Cinema Ao Vivo", "url": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8", "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj97NLgK1cGjNGdB1AQwIZzKX-1Lo-uXXhB2QwjT1iuD9sQkqEn1EcrCUbiqDWnzlqMMsBoH4Kk_TXYzPb7aCA-1n7damAlzLoToY_0GWNolV0qZaV9ZWW0xRZ7P92bVdfIoBgPCq_PxPEiK-C0hyslftk74PCtdcygB5YcLgFCqZ0Mm388Pq-cAaeLVpbx/s225/download.png", "description": "Canal dedicado a filmes clássicos e contemporâneos, transmitidos ao vivo em alta definição." }, { "id": 102, "name": "Sony One Cinema Ao Vivo", "url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8", "cover": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp", "description": "Sony One Cinema traz uma programação variada de filmes premiados e grandes clássicos do cinema." }, { "id": 103, "name": "Sony One Cinema HD", "url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8", "cover": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp", "description": "Transmissão em alta definição de filmes clássicos e contemporâneos, sem intervalos comerciais." } ] }, { "name": "Filmes", "items": [ { "id": 201, "title": "Big Buck Bunny", "description": "Um coelho gigante e gentil encontra três roedores maliciosos. Uma animação clássica de código aberto.", "cardImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/800px-Big_buck_bunny_poster_big.jpg", "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" } ] }, { "name": "Anime", "items": [ { "id": 301, "title": "A Jornada de Kaito", "description": "Um jovem espadachim busca vingança em um mundo místico cheio de demônios e samurais.", "cardImageUrl": "https://i.imgur.com/s65T163.jpeg", "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4" } ] }, { "name": "Desenho", "items": [ { "id": 401, "title": "As Aventuras de Pipo", "description": "Pipo, o esquilo, e seus amigos da floresta se metem em grandes confusões para proteger seu lar.", "cardImageUrl": "https://i.imgur.com/k2M2d56.jpeg", "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" } ] }, { "name": "Comédia", "items": [ { "id": 501, "title": "Vizinhos do Barulho", "description": "Dois vizinhos competitivos transformam a vida tranquila do bairro em um campo de batalha hilário.", "cardImageUrl": "https://i.imgur.com/0Fw2u7H.jpeg", "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" } ] }, { "name": "Novelas", "items": [ { "id": 601, "title": "Coração Dividido", "description": "Uma história de amor proibido entre duas famílias rivais que disputam o poder na cidade.", "cardImageUrl": "https://i.imgur.com/YwP5Y3A.jpeg", "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4" } ] }, { "name": "YouTube", "items": [ { "id": 701, "title": "PLANET EARTH III | Official Trailer", "description": "O trailer oficial da incrível série de documentários da BBC. (AVISO: Este é um vídeo de exemplo, leia a explicação sobre o YouTube).", "cardImageUrl": "https://i.ytimg.com/vi/xxXqSaspSRA/maxresdefault.jpg", "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" } ] } ] }
+{
+  "categories": [
+    {
+      "name": "TV Ao Vivo",
+      "items": [
+        {
+          "id": 101,
+          "name": "Web Tv Clássicos do Cinema Ao Vivo",
+          "url": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
+          "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj97NLgK1cGjNGdB1AQwIZzKX-1Lo-uXXhB2QwjT1iuD9sQkqEn1EcrCUbiqDWnzlqMMsBoH4Kk_TXYzPb7aCA-1n7damAlzLoToY_0GWNolV0qZaV9ZWW0xRZ7P92bVdfIoBgPCq_PxPEiK-C0hyslftk74PCtdcygB5YcLgFCqZ0Mm388Pq-cAaeLVpbx/s225/download.png",
+          "description": "Canal dedicado a filmes clássicos e contemporâneos, transmitidos ao vivo em alta definição."
+        },
+        {
+          "id": 102,
+          "name": "Sony One Cinema Ao Vivo",
+          "url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8",
+          "cover": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp",
+          "description": "Sony One Cinema traz uma programação variada de filmes premiados e grandes clássicos do cinema."
+        },
+        {
+          "id": 103,
+          "name": "Sony One Cinema HD",
+          "url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8",
+          "cover": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp",
+          "description": "Transmissão em alta definição de filmes clássicos e contemporâneos, sem intervalos comerciais."
+        }
+      ]
+    },
+    {
+      "name": "Filmes",
+      "items": [
+        {
+          "id": 201,
+          "title": "Big Buck Bunny",
+          "description": "Um coelho gigante e gentil encontra três roedores maliciosos. Uma animação clássica de código aberto.",
+          "cardImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/800px-Big_buck_bunny_poster_big.jpg",
+          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        }
+      ]
+    },
+    {
+      "name": "Anime",
+      "items": [
+        {
+          "id": 301,
+          "title": "A Jornada de Kaito",
+          "description": "Um jovem espadachim busca vingança em um mundo místico cheio de demônios e samurais.",
+          "cardImageUrl": "https://i.imgur.com/s65T163.jpeg",
+          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+        }
+      ]
+    },
+    {
+      "name": "Desenho",
+      "items": [
+        {
+          "id": 401,
+          "title": "As Aventuras de Pipo",
+          "description": "Pipo, o esquilo, e seus amigos da floresta se metem em grandes confusões para proteger seu lar.",
+          "cardImageUrl": "https://i.imgur.com/k2M2d56.jpeg",
+          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+        }
+      ]
+    },
+    {
+      "name": "Comédia",
+      "items": [
+        {
+          "id": 501,
+          "title": "Vizinhos do Barulho",
+          "description": "Dois vizinhos competitivos transformam a vida tranquila do bairro em um campo de batalha hilário.",
+          "cardImageUrl": "https://i.imgur.com/0Fw2u7H.jpeg",
+          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        }
+      ]
+    },
+    {
+      "name": "Novelas",
+      "items": [
+        {
+          "id": 601,
+          "title": "Coração Dividido",
+          "description": "Uma história de amor proibido entre duas famílias rivais que disputam o poder na cidade.",
+          "cardImageUrl": "https://i.imgur.com/YwP5Y3A.jpeg",
+          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "items": [
+        {
+          "id": 701,
+          "title": "PLANET EARTH III | Official Trailer",
+          "description": "O trailer oficial da incrível série de documentários da BBC. (AVISO: Este é um vídeo de exemplo, leia a explicação sobre o YouTube).",
+          "cardImageUrl": "https://i.ytimg.com/vi/xxXqSaspSRA/maxresdefault.jpg",
+          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        }
+      ]
+    }
+  ]
+}
