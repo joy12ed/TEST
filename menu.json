@@ -5,9 +5,9 @@
       "items": [
         {
           "id": 101,
-          "name": "Web Tv Clássicos do Cinema Ao Vivo",
-          "url": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
-          "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj97NLgK1cGjNGdB1AQwIZzKX-1Lo-uXXhB2QwjT1iuD9sQkqEn1EcrCUbiqDWnzlqMMsBoH4Kk_TXYzPb7aCA-1n7damAlzLoToY_0GWNolV0qZaV9ZWW0xRZ7P92bVdfIoBgPCq_PxPEiK-C0hyslftk74PCtdcygB5YcLgFCqZ0Mm388Pq-cAaeLVpbx/s225/download.png",
+          "title": "Web Tv Clássicos do Cinema Ao Vivo",
+          "videoUrl": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
+          "cardImageUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp",
           "description": "Canal dedicado a filmes clássicos e contemporâneos, transmitidos ao vivo em alta definição."
         },
         {
